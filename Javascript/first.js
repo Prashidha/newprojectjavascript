@@ -19,3 +19,5 @@ console.log("Hello " + "there");
 console.log(2+" Hi");
 
 prompt("Enter some value");
+
+alert("Its the end of first lesson of variables");
