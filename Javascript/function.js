@@ -48,3 +48,4 @@ console.log(cons(8,6));
     console.log("inside self invoking function");
     return a+b;
 })(6+4);
+
